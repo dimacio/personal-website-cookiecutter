@@ -18,3 +18,51 @@
 - [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
 - [Github Pages](https://pages.github.com/)
 
+#### Usage
+
+Pretend you want a simple personal landing page that points people towards relevant links and gives you a slice of the internet to call yours.
+
+1. First, get Cookiecutter. Trust me, it's awesome:
+
+`pip install "cookiecutter>=1.4.0"`
+
+Now run it against this repo:
+
+`cookiecutter https://github.com/vladdoster/Personal-Website-Cookiecutter/`
+
+You'll be prompted for some values. Provide them, then a cli tool will be created for you.
+
+Warning: After this point, change 'Vlad Doster', 'vladdoster', etc to your own information.
+
+Answer the prompts with your own desired options. For example:
+
+```
+Cloning into 'Personal-Website-Cookiecutter'...
+remote: Counting objects: 550, done.
+remote: Compressing objects: 100% (310/310), done.
+remote: Total 550 (delta 283), reused 479 (delta 222)
+Receiving objects: 100% (550/550), 127.66 KiB | 58 KiB/s, done.
+Resolving deltas: 100% (283/283), done.
+directory_name [personal-website]: vlad-website
+email [mvdoster@gmail.com]: dosterm@wit.edu
+github_username [vdoster]: vladdoster
+html_title [MVD]: MVD
+linkedin_url [https://www.linkedin.com/in/vdoster/]: linkedin.vdoster.com
+name [Vlad Doster]: Martin V. Doster
+short_personal_description [Free range code artisan]: I code with my bare hands
+
+```
+
+Create a git repo and push it there:
+
+```
+git init
+git add .
+git commit -m "Initial commit: A new website"
+git remote add origin git@github.com:vladdoster/slice-of-internet.git
+git push -u origin master
+```
+
+#### Ideas? 
+
+If you want me to add something, [open an issue](https://github.com/vladdoster/Personal-Website-Cookiecutter/issues/new)
