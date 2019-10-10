@@ -51,7 +51,7 @@ short_personal_description [Free range code artisan]: I code with my bare hands
 
 ```
 
-Create a git repo and push it there:
+4. Create a git repo and push it there:
 
 ```
 git init
