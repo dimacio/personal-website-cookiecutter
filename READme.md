@@ -2,7 +2,7 @@
 
 # Personal Website Cookiecutter
 
-## Personal website cookiecutter allows a user to generate a simple and informative landing page containg links of interest such as a Github and Linkedin. It can then be easily deployed to Github Pages. Not only does it generate the website, but has a fully featured CLI tool to programtically enable github pages. We wanted to gut out as much GUI input.
+## Personal website cookiecutter generates a simple and informative landing page containing desirable links such as Github and Linkedin. It can then be easily deployed to Github Pages via a CLI tool. We wanted to make it as easy as possible to get a slice of the internet.
 
 ### [Live Demo](https://vdoster.com) 
 
