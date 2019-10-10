@@ -2,7 +2,7 @@
 
 # Personal Website Cookiecutter
 
-## Personal website cookiecutter allows a user to set up a simple landing page with relevant details such as a github and linkeding link.
+## Personal website cookiecutter allows a user to create and deploy a simple landing page with relevant details such as a Github and Linkedin link to Github Pages.
 
 ### [Live Demo](https://vdoster.com) 
 
