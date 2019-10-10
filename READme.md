@@ -26,13 +26,11 @@ Pretend you want a simple personal landing page that points people towards relev
 
 `pip install "cookiecutter>=1.4.0"`
 
-Now run it against this repo:
+2. Run it against this repo:
 
 `cookiecutter https://github.com/vladdoster/Personal-Website-Cookiecutter/`
 
-You'll be prompted for some values. Provide them, then a cli tool will be created for you.
-
-Warning: After this point, change 'Vlad Doster', 'vladdoster', etc to your own information.
+3. You'll be prompted for some values. Provide them, then a website will be created for you.
 
 Answer the prompts with your own desired options. For example:
 
