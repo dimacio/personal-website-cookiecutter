@@ -4,9 +4,9 @@
 
 ## Personal website cookiecutter allows a user to generate a simple landing page with relevant details such as a Github and Linkedin links deployed to Github Pages.
 
-![Generated website](https://github.com/vladdoster/Personal-Website-Cookiecutter/blob/master/example.png)
-
 ### [Live Demo](https://vdoster.com) 
+
+![Generated website](https://github.com/vladdoster/Personal-Website-Cookiecutter/blob/master/example.png)
 
 </div>
 
