@@ -41,7 +41,7 @@ remote: Compressing objects: 100% (310/310), done.
 remote: Total 550 (delta 283), reused 479 (delta 222)
 Receiving objects: 100% (550/550), 127.66 KiB | 58 KiB/s, done.
 Resolving deltas: 100% (283/283), done.
-directory_name [personal-website]: vlad-website
+directory_name [personal-website]: slice-of-internet
 email [mvdoster@gmail.com]: dosterm@wit.edu
 github_username [vdoster]: vladdoster
 html_title [MVD]: MVD
