@@ -11,7 +11,7 @@
 ### Features
 - Automatic HTTPS
 - Free
-- Simple
+- Inline CSS
 
 #### Stack
 - HTML & CSS
