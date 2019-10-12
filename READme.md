@@ -15,7 +15,8 @@
 - Free
 - Inline CSS
 - CLI tool to enable GH pages programmatically
-- Use your own domain
+- Use custom domain
+- No dependencies
 
 #### Stack
 - HTML & CSS
