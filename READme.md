@@ -16,7 +16,6 @@
 - Inline CSS
 - CLI tool to enable GH pages programmatically
 - Use custom domain
-- No dependencies
 
 #### Stack
 - HTML & CSS
