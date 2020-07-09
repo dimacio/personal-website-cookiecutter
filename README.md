@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 ### Features
 
 - Automatic HTTPS
@@ -18,7 +20,7 @@
 
 ---
 
-#### Stack
+### Stack
 
 - HTML & CSS
 - [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
