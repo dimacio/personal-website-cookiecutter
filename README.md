@@ -72,6 +72,12 @@ git push -u origin master
 
 ---
 
-### Ideas?
+### Contribute
 
-If you want me to add something, [open an issue](https://github.com/vladdoster/minimal-personal-website-cookiecutter/issues/new)
+Contributions are always welcome!
+
+---
+
+### License
+
+This program is released under the MIT license, which you can find in the file [LICENSE](LICENSE).
