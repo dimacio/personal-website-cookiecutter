@@ -2,41 +2,46 @@
 
 # Personal Website Cookiecutter
 
-## Personal website cookiecutter generates a minimialist and informative landing page containing desirable links such as Github and Linkedin. It easily deploys to Github Pages via a CLI tool. Easiest way to grab a slice of internet pie.
+### Personal website cookiecutter generates a minimialist and informative landing page containing desirable links such as Github and Linkedin. It easily deploys to Github Pages via a CLI tool. Easiest way to grab a slice of internet pie.
 
-### [Live Demo](https://vdoster.com) 
-
-![Generated website](https://github.com/vladdoster/Personal-Website-Cookiecutter/blob/master/example.png)
+![Generated website](example.png)
 
 </div>
 
 ### Features
+
 - Automatic HTTPS
 - Free
 - Inline CSS
 - CLI tool to enable GH pages programmatically
 - Use custom domain
 
+---
+
 #### Stack
+
 - HTML & CSS
 - [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
 - [Github Pages](https://pages.github.com/)
 
-#### Usage
+---
 
-Pretend you want a simple personal landing page that points people towards relevant links and gives you a slice of the internet to call yours.
+### Usage
 
-1. First, get Cookiecutter. Trust me, it's awesome:
+1. Install Cookiecutter
 
-`pip install "cookiecutter>=1.4.0"`
+```
+pip3 install "cookiecutter>=1.4.0"
+```
 
-2. Run it against this repo:
+2. Run it against this repo
 
-`cookiecutter https://github.com/vladdoster/Personal-Website-Cookiecutter/`
+```
+cookiecutter https://github.com/vladdoster/personal-website-cookiecutter.git
+```
 
 3. You'll be prompted for some values. Provide them, then a website will be created for you.
 
-Answer the prompts with your own desired options. For example:
 
 ```
 Cloning into 'Personal-Website-Cookiecutter'...
@@ -52,7 +57,6 @@ html_title [MVD]: MVD
 linkedin_url [https://www.linkedin.com/in/vdoster/]: linkedin.vdoster.com
 name [Vlad Doster]: Martin V. Doster
 short_personal_description [Free range code artisan]: I code with my bare hands
-
 ```
 
 4. Create a git repo and push it there:
@@ -64,7 +68,8 @@ git commit -m "Initial commit: A new website"
 git remote add origin git@github.com:vladdoster/slice-of-internet.git
 git push -u origin master
 ```
+---
 
-#### Ideas? 
+### Ideas? 
 
-If you want me to add something, [open an issue](https://github.com/vladdoster/Personal-Website-Cookiecutter/issues/new)
+If you want me to add something, [open an issue](https://github.com/vladdoster/minimal-personal-website-cookiecutter/issues/new)
