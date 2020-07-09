@@ -42,7 +42,6 @@ cookiecutter https://github.com/vladdoster/personal-website-cookiecutter.git
 
 3. You'll be prompted for some values. Provide them, then a website will be created for you.
 
-
 ```
 Cloning into 'Personal-Website-Cookiecutter'...
 remote: Counting objects: 550, done.
@@ -68,8 +67,9 @@ git commit -m "Initial commit: A new website"
 git remote add origin git@github.com:vladdoster/slice-of-internet.git
 git push -u origin master
 ```
+
 ---
 
-### Ideas? 
+### Ideas?
 
 If you want me to add something, [open an issue](https://github.com/vladdoster/minimal-personal-website-cookiecutter/issues/new)
