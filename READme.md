@@ -2,7 +2,7 @@
 
 # Personal website cookiecutter
 
-### Generates a minimialist and informative landing page containing desirable links such as Github and Linkedin. Deploys to Github pages via a CLI tool.
+### Generate a minimialist and informative landing page containing desirable links such as Github and Linkedin. Deploys to Github pages via a CLI tool.
 
 ![Generated website](example.png)
 
